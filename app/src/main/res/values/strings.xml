@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LifeToSenior</string>
+    <string name="gender">Gender</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="compute">Compute</string>
+    <string name="date_to_retire">Date to Retire</string>
+    <string name="age_to_retire">Age to Retire</string>
+    <string name="empty" />
+</resources>
