@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lifetosenior"
+    namespace = "com.example.seniorlife"
     compileSdk = 34
 
     defaultConfig {

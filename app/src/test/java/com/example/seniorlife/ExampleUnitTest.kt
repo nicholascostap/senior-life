@@ -1,4 +1,4 @@
-package com.example.lifetosenior
+package com.example.seniorlife
 
 import org.junit.Test
 

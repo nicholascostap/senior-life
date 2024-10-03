@@ -1,15 +1,12 @@
-package com.example.lifetosenior
+package com.example.seniorlife
 
 import android.os.Bundle
 import android.widget.ArrayAdapter
 import android.widget.Spinner
 import android.widget.TextView
-import android.widget.DatePicker
 import android.widget.Button
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import org.json.JSONObject
-import java.util.Calendar
 
 class MainActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -40,7 +37,7 @@ class MainActivity: AppCompatActivity() {
         val buttonAddress = findViewById<Button>(R.id.buttonGetAddress)
 
         fun getAddress(cep: String): String {
-            TODO()''
+            TODO()
             // val client = HttpClient()
             // val response = client.get<String>("https://viacep.com.br/ws/$cep/json/")
             //

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LifeToSenior</string>
+    <string name="app_name">Senior Life</string>
     <string name="gender">Gender</string>
     <string name="birthdate">Birthdate</string>
     <string name="compute">Compute</string>
